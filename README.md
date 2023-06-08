@@ -14,8 +14,13 @@ O ambiente de desenvolvimento se baseia em 3 pilares:
 * Docker
 * Visual Studio Code + extensões
 
-Há duas apresentações em PDF neste repositórios, uma específica para Windows que demonstra a configuração de ambiente com WSL usando o tutorial de instalação: [https://github.com/codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart).
+Há 2 apresentações em PDF neste repositórios, uma específica para Windows que demonstra a configuração de ambiente com WSL usando o tutorial de instalação: [https://github.com/codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart).
 
 A outra apresentação resume as configurações para todos os sistemas operacionais e lista ferramentas semelhantes que podem ser configuradas em todos os sistemas operacionais.
+
+Se quiser acessar a apresentação online, acesse:
+
+* Ambiente de desenvolvimento no Windows: [https://docs.google.com/presentation/d/1HCwwXQVXAU1BOSahzkHXQW49qSJ8purDreIx0AyJ_KI/edit?usp=sharing](https://docs.google.com/presentation/d/1HCwwXQVXAU1BOSahzkHXQW49qSJ8purDreIx0AyJ_KI/edit?usp=sharing)
+* Ambiente de desenvolvimento: [https://docs.google.com/presentation/d/1mbhEnSBjqSavsmYYLSxn1R-qdOkFryYBKvGbXzXWB1I/edit?usp=sharing](https://docs.google.com/presentation/d/1mbhEnSBjqSavsmYYLSxn1R-qdOkFryYBKvGbXzXWB1I/edit?usp=sharing) 
 
 Considere dar uma estrelinha para nos ajudar a divulgar o projeto.
