@@ -23,4 +23,6 @@ Se quiser acessar a apresentação online, acesse:
 * Ambiente de desenvolvimento no Windows: [https://docs.google.com/presentation/d/1HCwwXQVXAU1BOSahzkHXQW49qSJ8purDreIx0AyJ_KI/edit?usp=sharing](https://docs.google.com/presentation/d/1HCwwXQVXAU1BOSahzkHXQW49qSJ8purDreIx0AyJ_KI/edit?usp=sharing)
 * Ambiente de desenvolvimento: [https://docs.google.com/presentation/d/1mbhEnSBjqSavsmYYLSxn1R-qdOkFryYBKvGbXzXWB1I/edit?usp=sharing](https://docs.google.com/presentation/d/1mbhEnSBjqSavsmYYLSxn1R-qdOkFryYBKvGbXzXWB1I/edit?usp=sharing) 
 
+Quer dicas de extensões úteis para o VSCode e configurações básicas, veja o tutorial: [https://github.com/argentinaluiz/my-vscode-settings](https://github.com/argentinaluiz/my-vscode-settings)
+
 Considere dar uma estrelinha para nos ajudar a divulgar o projeto.
