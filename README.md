@@ -1,7 +1,5 @@
 # Ambiente produtivo para desenvolvimento
-![Imersão Full Stack && Full Cycle](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png)
 
-Participe gratuitamente: https://imersao.fullcycle.com.br/
 
 ## Sobre o repositório
 Esse repositório contém material para configuração de um ambiente produtivo para desenvolvimento no Mac, Linux e Windows.
