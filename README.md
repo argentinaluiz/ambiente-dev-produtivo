@@ -2,7 +2,7 @@
 
 > Guia completo e atualizado para configurar um ambiente de desenvolvimento moderno e produtivo no Windows, macOS e Linux.
 
-![Ambiente Produtivo](img/main.png)
+![Ambiente Produtivo](img/main.webp)
 
 ## 📋 Sobre este Repositório
 
