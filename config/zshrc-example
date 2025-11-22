@@ -1,0 +1,59 @@
+# Exemplo de configuração para ~/.zshrc
+# Plugins recomendados para Oh My Zsh
+
+# Adicione esta linha na seção de plugins do seu ~/.zshrc:
+plugins=(git git-flow fast-syntax-highlighting zsh-autosuggestions zsh-completions)
+
+# ============================================================================
+# PLUGINS INTERNOS (já incluídos no Oh My Zsh)
+# ============================================================================
+
+# git
+# - Adiciona aliases úteis para comandos Git
+# - Exemplos: gst (git status), gco (git checkout), gp (git push)
+# - Documentação: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git
+
+# git-flow
+# - Aliases para Git Flow workflow
+# - Facilita uso de feature, release, hotfix branches
+# - Documentação: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git-flow
+
+# ============================================================================
+# PLUGINS EXTERNOS (precisam ser instalados manualmente)
+# ============================================================================
+
+# 1. fast-syntax-highlighting
+# Destaca comandos enquanto você digita, indicando se são válidos
+# Instalação:
+# git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git \
+#   ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+# 
+# Benefícios:
+# - Visualiza erros de sintaxe em tempo real
+# - Diferencia comandos, argumentos, paths
+# - Mais rápido que zsh-syntax-highlighting tradicional
+# Link: https://github.com/zdharma-continuum/fast-syntax-highlighting
+
+# 2. zsh-autosuggestions
+# Sugere comandos baseado no histórico enquanto você digita
+# Instalação:
+# git clone https://github.com/zsh-users/zsh-autosuggestions \
+#   ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+#
+# Benefícios:
+# - Economiza tempo reexecutando comandos anteriores
+# - Pressione → (seta direita) para aceitar sugestão
+# - Aprende com seu histórico de comandos
+# Link: https://github.com/zsh-users/zsh-autosuggestions
+
+# 3. zsh-completions
+# Adiciona completions adicionais para centenas de comandos
+# Instalação:
+# git clone https://github.com/zsh-users/zsh-completions \
+#   ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
+#
+# Benefícios:
+# - Autocompletar para Docker, Docker Compose, kubectl, npm, etc.
+# - Sugestões contextuais de argumentos e flags
+# - Cobre ferramentas que o Zsh padrão não suporta
+# Link: https://github.com/zsh-users/zsh-completions

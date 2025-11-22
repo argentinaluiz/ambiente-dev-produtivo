@@ -1,26 +1,69 @@
-# Ambiente produtivo para desenvolvimento
+# Ambiente Produtivo para Desenvolvimento
 
+> Guia completo e atualizado para configurar um ambiente de desenvolvimento moderno e produtivo no Windows, macOS e Linux.
 
-## Sobre o repositório
-Esse repositório contém material para configuração de um ambiente produtivo para desenvolvimento no Mac, Linux e Windows.
+![Ambiente Produtivo](img/main.webp)
 
-Estas são minhas recomendações com a minha experiência nos 3 sistemas operacionais.
+## 📋 Sobre este Repositório
 
-O ambiente de desenvolvimento se baseia em 3 pilares:
+Este repositório contém meus guias atualizados e práticos para configuração de ambiente de desenvolvimento profissional em diferentes sistemas operacionais. Organizei o conteúdo para facilitar a consulta e implementação das melhores práticas.
 
-* Um bom terminal + oh my zsh
-* Docker
-* Visual Studio Code + extensões
+## 🎯 Os 3 Pilares do Ambiente Produtivo
 
-Há 2 apresentações em PDF neste repositórios, uma específica para Windows que demonstra a configuração de ambiente com WSL usando o tutorial de instalação: [https://github.com/codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart).
+Um ambiente de desenvolvimento eficiente se baseia em três pilares fundamentais:
 
-A outra apresentação resume as configurações para todos os sistemas operacionais e lista ferramentas semelhantes que podem ser configuradas em todos os sistemas operacionais.
+1. **Terminal Moderno**
+   - Shell personalizado (Fish ou Zsh)
+   - Plugins e temas para produtividade
+   - Autocompletion e navegação inteligente
+   - Integração com IA (opcional)
+   - Emuladores modernos com GPU acceleration
 
-Se quiser acessar a apresentação online, acesse:
+2. **Docker & Containerização**
+   - Ambientes isolados e reproduzíveis
+   - Facilita trabalho com múltiplos projetos
+   - Padronização entre equipes
+   - Docker Desktop com recursos de IA
 
-* Ambiente de desenvolvimento no Windows: [https://docs.google.com/presentation/d/1HCwwXQVXAU1BOSahzkHXQW49qSJ8purDreIx0AyJ_KI/edit?usp=sharing](https://docs.google.com/presentation/d/1HCwwXQVXAU1BOSahzkHXQW49qSJ8purDreIx0AyJ_KI/edit?usp=sharing)
-* Ambiente de desenvolvimento: [https://docs.google.com/presentation/d/1mbhEnSBjqSavsmYYLSxn1R-qdOkFryYBKvGbXzXWB1I/edit?usp=sharing](https://docs.google.com/presentation/d/1mbhEnSBjqSavsmYYLSxn1R-qdOkFryYBKvGbXzXWB1I/edit?usp=sharing) 
+3. **Visual Studio Code**
+   - Editor moderno e extensível
+   - Integração com ferramentas de desenvolvimento
+   - Suporte a múltiplas linguagens
+   - Debugging integrado e Git visual
 
-Quer dicas de extensões úteis para o VSCode e configurações básicas, veja o tutorial: [https://github.com/argentinaluiz/my-vscode-settings](https://github.com/argentinaluiz/my-vscode-settings)
+## 📚 Guias por Sistema Operacional
 
-Considere dar uma estrelinha para nos ajudar a divulgar o projeto.
+Escolha o guia específico para seu sistema operacional:
+
+| Sistema Operacional | Características | Guia |
+|---------------------|----------------|------|
+| 🪟 **Windows** | WSL2 + Windows Terminal + PowerToys | [Guia Windows →](docs/windows.md) |
+| 🐧 **Linux** | Emuladores nativos + Docker Engine/Desktop | [Guia Linux →](docs/linux.md) |
+| 🍎 **macOS** | iTerm2 + Docker Desktop | [Guia macOS →](docs/mac.md) |
+
+### O que você vai encontrar em cada guia:
+
+- ✅ **Emuladores de Terminal**: Opções modernas com aceleração GPU e recursos avançados
+- 🐚 **Shell**: Fish (recomendado) ou Zsh com plugins de produtividade
+- 🤖 **IA no Terminal**: Integração opcional com assistentes inteligentes
+- 🐳 **Docker**: Containerização para ambientes isolados
+- 💻 **VSCode**: Configuração completa via tutorial externo
+- 🔧 **Ferramentas Específicas**: PowerToys e ZoomIt (Windows), utilitários nativos (Linux/Mac)
+
+## 🔗 Recursos Adicionais
+
+- **VSCode Settings**: Confira minhas extensões e configurações úteis para VSCode no repositório [my-vscode-settings](https://github.com/argentinaluiz/my-vscode-settings)
+
+## 📦 Documentação Legada
+
+Versões anteriores dos meus guias estão disponíveis para consulta:
+
+- [README anterior](legacy/README-old.md)
+- [PDF: Ambiente de desenvolvimento produtivo no Windows](legacy/Ambiente%20de%20desenvolvimento%20produtivo%20no%20Windows.pdf)
+- [PDF: Configuração do ambiente de desenvolvimento produtivo](legacy/Configuração%20do%20ambiente%20de%20desenvolvimento%20produtivo.pdf)
+- [Apresentação: Ambiente de desenvolvimento no Windows](https://docs.google.com/presentation/d/1HCwwXQVXAU1BOSahzkHXQW49qSJ8purDreIx0AyJ_KI/edit?usp=sharing)
+- [Apresentação: Ambiente de desenvolvimento](https://docs.google.com/presentation/d/1mbhEnSBjqSavsmYYLSxn1R-qdOkFryYBKvGbXzXWB1I/edit?usp=sharing)
+
+## ⭐ Contribua
+
+Se este repositório foi útil para você, considere dar uma estrela ⭐ para me ajudar a divulgar o projeto!
