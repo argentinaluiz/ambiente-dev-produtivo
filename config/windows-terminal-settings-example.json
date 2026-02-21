@@ -36,7 +36,7 @@
             "rightClickContextMenu": true,
             "showMarksOnScrollbar": true
         },
-        "list": [] // Profiles are added here dynamically
+        "list": []
     },
     "schemes": 
     [
